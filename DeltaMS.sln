@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delta", "Delta\Delta.csproj", "{F55B394E-D03D-4344-8E7B-4916BB3C84E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaApi", "DeltaApi\DeltaApi.csproj", "{23D08B50-221B-4CD9-9CEF-89CF623B6571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55B394E-D03D-4344-8E7B-4916BB3C84E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55B394E-D03D-4344-8E7B-4916BB3C84E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55B394E-D03D-4344-8E7B-4916BB3C84E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55B394E-D03D-4344-8E7B-4916BB3C84E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D08B50-221B-4CD9-9CEF-89CF623B6571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D08B50-221B-4CD9-9CEF-89CF623B6571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D08B50-221B-4CD9-9CEF-89CF623B6571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D08B50-221B-4CD9-9CEF-89CF623B6571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62D6EAA4-F660-4124-A2BA-E84C9858E2B6}
+	EndGlobalSection
+EndGlobal
